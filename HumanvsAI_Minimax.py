@@ -1,5 +1,5 @@
 import numpy as np
-from math import inf as infinit
+from math import inf as infinity
 
 game_state = [[' ',' ',' '],
               [' ',' ',' '],
